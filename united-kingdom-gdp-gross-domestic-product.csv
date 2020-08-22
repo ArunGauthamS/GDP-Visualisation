@@ -1,19 +1,4 @@
-Macrotrends Data Download
-
-U.K. GDP 1955-2020
-
-
-DISCLAIMER AND TERMS OF USE: HISTORICAL DATA IS PROVIDED "AS IS" AND SOLELY
-FOR INFORMATIONAL PURPOSES - NOT FOR TRADING PURPOSES OR ADVICE.
-NEITHER MACROTRENDS LLC NOR ANY OF OUR INFORMATION PROVIDERS WILL BE LIABLE
-FOR ANY DAMAGES RELATING TO YOUR USE OF THE DATA PROVIDED.
-
-
-ATTRIBUTION: Proper attribution requires clear indication of the data source as "www.macrotrends.net".
-A "dofollow" backlink to the originating page is also required if the data is displayed on a web page.
-
-
-, GDP, Per Capita, Growth
+date, GDP, Per Capita, Growth
 date, GDP ( Billions of US $), Per Capita (US $), Real GDP QoQ %
 1955-03-01,87.199
 1955-06-01,87.609,0.38
